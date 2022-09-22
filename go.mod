@@ -1,4 +1,4 @@
-module coder.byzk.cn/golibs/common/pkcs7
+module github.com/go-base-lib/pkcs7
 
 go 1.16
 
